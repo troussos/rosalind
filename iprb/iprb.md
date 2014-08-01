@@ -40,4 +40,4 @@ The probability that two randomly selected mating organisms will produce an indi
 ##Language Status
 | Language |  Status  | Last Updated |
 | -------- |  ------  | ------------ |
-|   PHP    | Unsolved | 27-Oct-2013  |
+|   PHP    |  Solved  | 2-May-2014   |

@@ -1,0 +1,2 @@
+Has Dominant Allele 0.7703634085213
+Dose Not Have Dominant Allele 0.2296365914787
